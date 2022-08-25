@@ -1,0 +1,9 @@
+.root{
+    -fx-background-color: #EAF6F6;
+}
+.label{
+    -fx-font-size: 18.0;
+    -fx-font-family: 'Montserrat', sans-serif;
+    -fx-font-weight: bold;
+    -fx-text-fill: #66BFBF;
+}
