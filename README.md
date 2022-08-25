@@ -1,5 +1,5 @@
 # Noughts and Crosses
-A simple noughts and crosses game which can run multiple games simultaneously.
+A noughts and crosses game which can run multiple games simultaneously, through the use of java sockets.
 
 ## How to run in IntelliJ
 1. Create a new project in IntelliJ and set the root directory to the directory into which you have cloned this repo.
